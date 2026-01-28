@@ -16,7 +16,7 @@ follow these step to run the project locally
 
 -clone te repository: clone the color-clock repository to your local machine using git.
 
- git clone: 
+ git clone: https://github.com/robert00-1/color-clock.git
 
 - navigate into the project folder 
    cd color-clock
