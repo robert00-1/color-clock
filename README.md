@@ -1,4 +1,5 @@
-#  Color Clock (React + Vite)
+# Title
+Color Clock
 
 # Description
 This project is asimple React application that displays the current date and time.
@@ -39,7 +40,7 @@ Before you run the npm run dev make sure you have install dependancies and insta
 ![alt text](imageR.jpg)
 
 # # licenses
-color-clock is licenced under the MT licences see the LICENSE file for more details
+This project is for learning porposes
 
 
 
